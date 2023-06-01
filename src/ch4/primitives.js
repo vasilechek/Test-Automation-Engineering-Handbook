@@ -4,9 +4,9 @@ const crime_rate = 50.72; //number
 const isWarm = false; //boolean
 const x = null; //null
 let y; //undefined
-console.log(typeof(city))
-console.log(typeof(population))
-console.log(typeof(crime_rate))
-console.log(typeof(isWarm))
-console.log(typeof(x))
-console.log(typeof(y))
+console.log('city is ' + typeof(city))
+console.log('population is ' + typeof(population))
+console.log('crime rate is ' + typeof(crime_rate))
+console.log('isWarm is ' + typeof(isWarm))
+console.log('x is ' + typeof(x))
+console.log('y is ' + typeof(y))
